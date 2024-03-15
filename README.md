@@ -8,7 +8,7 @@ This repository contains two data analysis projects stored in a separate folder 
 - **Folder**: `Virat_Kohli_Perfomance_Analysis`
 - **Description**: This project focuses on analyzing the betting performance of Virat Kohli in One Day International (ODI) cricket matches. It involves examining various statistics and trends related to Kohli's performance in ODI matches.
 
-### 2. Loan Data Analysis
+### 2. [Loan Data Analysis](https://github.com/yashuradadiya/Data_Analysis_Projects/tree/main/Loan_Data_Analysis)
 - **Folder**: `Loan_Data_Analysis`
 - **Description**: This project involves analyzing loan data to derive insights and patterns. It includes tasks such as data cleaning, exploratory data analysis, and visualization to understand factors affecting loan approval and repayment.
 

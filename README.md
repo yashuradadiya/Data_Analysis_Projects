@@ -4,7 +4,7 @@ This repository contains two data analysis projects stored in a separate folder 
 
 ## Projects Overview
 
-### 1. Virat Kohli ODI Betting Performance Analysis
+### 1. [Virat Kohli ODI Betting Performance Analysis]([www.google.com](https://github.com/yashuradadiya/Data_Analysis_Projects/tree/main/Virat_Kohli_Perfomance_Analysis))
 - **Folder**: `Virat_Kohli_Perfomance_Analysis`
 - **Description**: This project focuses on analyzing the betting performance of Virat Kohli in One Day International (ODI) cricket matches. It involves examining various statistics and trends related to Kohli's performance in ODI matches.
 
